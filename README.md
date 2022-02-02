@@ -6,4 +6,4 @@ Assessment of Innovative Technologies and Their Readiness for Remote Sensing-Bas
 
 ## GEOSPATIAL ESG
 THE EMERGING APPLICATION OF GEOSPATIAL DATA FOR GAINING ‘ENVIRONMENTAL’
-INSIGHTS ON THE ASSET, CORPORATE AND SOVEREIGN LEVEL [Link] (https://www.wwf.org.uk/sites/default/files/2022-01/Geospatial_ESG_Report.pdf) 
+INSIGHTS ON THE ASSET, CORPORATE AND SOVEREIGN LEVEL [Link](https://www.wwf.org.uk/sites/default/files/2022-01/Geospatial_ESG_Report.pdf) 
